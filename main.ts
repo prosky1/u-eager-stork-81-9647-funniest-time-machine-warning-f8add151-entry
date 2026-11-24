@@ -8,7 +8,7 @@ import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 
 const LABEL =
-  "WARNING: never meet yourself — he owes you money and knows exactly where you live.";
+  "WARNING: Do not sneeze in 1348. You are now the plague.";
 
 // Runtime guard: the sealed gate only accepts UTF-8 text of 1-120
 // characters that is not only whitespace. Refuse to emit an invalid label.
